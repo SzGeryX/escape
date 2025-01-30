@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/szentjobi.gergo/Documents/escape/Content/Characters/wizard.png","c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Characters/wizard.xnb","TextureProcessor","Texture2DContent",1155,4181,0,4814405
+"c:/Users/szentjobi.gergo/Documents/escape/Content/Font/File.spritefont","c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Font/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0,1873595
