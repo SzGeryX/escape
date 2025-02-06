@@ -25,3 +25,4 @@ C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\refint\escape.dll
 C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.pdb
 C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.genruntimeconfig.cache
 C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\ref\escape.dll
+c:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.sourcelink.json

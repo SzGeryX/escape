@@ -24,7 +24,7 @@ public class MenuScene : IScene
     public void Update(GameTime gameTime) {
         if (Keyboard.GetState().IsKeyDown(Keys.Space)) 
         {
-            SceneManager.AddScene(new GameScene(ContentManager));
+            SceneManager.AddScene(new GameScene(ContentManager, SceneManager));
         }
     }
 

@@ -29,7 +29,7 @@ public class Game1 : Microsoft.Xna.Framework.Game
     {
         _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-        sceneManager.AddScene(new MenuScene(Content, sceneManager));
+        sceneManager.AddScene(new GameScene(Content, sceneManager));
 
         // TODO: use this.Content to load your game content here
     }
@@ -50,7 +50,7 @@ public class Game1 : Microsoft.Xna.Framework.Game
         GraphicsDevice.Clear(Color.CornflowerBlue);
 
         // TODO: Add your drawing code here
-        _spriteBatch.Begin();
+        _spriteBatch.Begin(samplerState: SamplerState.PointClamp);
 
         sceneManager.GetCurrentScene().Draw(_spriteBatch);
 
