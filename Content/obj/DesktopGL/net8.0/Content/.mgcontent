@@ -4,10 +4,14 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/Users/szentjobi.gergo/Documents/escape/Content/Characters/wizard.png</File>
-    <File>c:/Users/szentjobi.gergo/Documents/escape/Content/Font/File.spritefont</File>
+    <File>C:/Users/szentjobi.gergo/Documents/escape/Content/Characters/healthPoti.png</File>
+    <File>C:/Users/szentjobi.gergo/Documents/escape/Content/Characters/kard.png</File>
+    <File>C:/Users/szentjobi.gergo/Documents/escape/Content/Characters/wizard.png</File>
+    <File>C:/Users/szentjobi.gergo/Documents/escape/Content/Font/File.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File>Font/Font.spritefont</File>
   </DestFiles>

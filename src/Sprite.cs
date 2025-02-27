@@ -32,5 +32,16 @@ public class Sprite {
             srect,
             Color.White
         );
+
+        spriteBatch.Draw(
+            texture,
+            dest,
+            null,
+            Color.White,
+            0.0f,
+            new Vector2(0, 0),
+            (SpriteEffects.None),
+            1.0f
+        );
     }
 }

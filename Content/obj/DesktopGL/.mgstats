@@ -1,3 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"c:/Users/szentjobi.gergo/Documents/escape/Content/Characters/wizard.png","c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Characters/wizard.xnb","TextureProcessor","Texture2DContent",1155,4181,0,4814405
-"c:/Users/szentjobi.gergo/Documents/escape/Content/Font/File.spritefont","c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Font/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0,1873595
+"c:/Users/szentjobi.gergo/Documents/escape/Content/Characters/healthPoti.png","c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Characters/healthPoti.xnb","TextureProcessor","Texture2DContent",430,4181,0,1741308
+"c:/Users/szentjobi.gergo/Documents/escape/Content/Characters/kard.png","c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Characters/kard.xnb","TextureProcessor","Texture2DContent",1917,102485,0,0209111
+"c:/Users/szentjobi.gergo/Documents/escape/Content/Characters/wizard.png","c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Characters/wizard.xnb","TextureProcessor","Texture2DContent",1155,4181,0,00865
+"c:/Users/szentjobi.gergo/Documents/escape/Content/Font/File.spritefont","c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Font/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0,1778645

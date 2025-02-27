@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Users/szentjobi.gergo/Documents/escape/Content/Characters/wizard.png</SourceFile>
-  <SourceTime>2025-01-30T10:01:35.0739637+01:00</SourceTime>
-  <DestFile>c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Characters/wizard.xnb</DestFile>
-  <DestTime>2025-02-27T09:30:58.1257746+01:00</DestTime>
+  <SourceFile>c:/Users/szentjobi.gergo/Documents/escape/Content/Characters/kard.png</SourceFile>
+  <SourceTime>2025-02-27T09:30:09.5790755+01:00</SourceTime>
+  <DestFile>c:/Users/szentjobi.gergo/Documents/escape/Content/bin/DesktopGL/Characters/kard.xnb</DestFile>
+  <DestTime>2025-02-27T09:30:58.1177742+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2024-08-16T19:05:56+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

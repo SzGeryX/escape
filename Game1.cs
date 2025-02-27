@@ -29,7 +29,7 @@ public class Game1 : Microsoft.Xna.Framework.Game
     {
         _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-        sceneManager.AddScene(new GameScene(Content, sceneManager));
+        sceneManager.AddScene(new GameScene(Content, sceneManager, _graphics));
 
         // TODO: use this.Content to load your game content here
     }
@@ -39,9 +39,8 @@ public class Game1 : Microsoft.Xna.Framework.Game
         if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
             Exit();
 
-        // TODO: Add your update logic here
-        sceneManager.GetCurrentScene().Update(gameTime);
 
+        sceneManager.GetCurrentScene().Update(gameTime);
         base.Update(gameTime);
     }
 

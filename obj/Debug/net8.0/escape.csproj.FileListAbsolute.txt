@@ -26,3 +26,5 @@ C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.pdb
 C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.genruntimeconfig.cache
 C:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\ref\escape.dll
 c:\Users\szentjobi.gergo\Documents\escape\obj\Debug\net8.0\escape.sourcelink.json
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\Content\Characters\healthPoti.xnb
+C:\Users\szentjobi.gergo\Documents\escape\bin\Debug\net8.0\Content\Characters\kard.xnb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\szentjobi.gergo\\Documents\\escape\\escape.csproj": {}
+    "C:\\Users\\szentjobi.gergo\\Documents\\escape\\escape.csproj": {}
   },
   "projects": {
-    "c:\\Users\\szentjobi.gergo\\Documents\\escape\\escape.csproj": {
+    "C:\\Users\\szentjobi.gergo\\Documents\\escape\\escape.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\szentjobi.gergo\\Documents\\escape\\escape.csproj",
+        "projectUniqueName": "C:\\Users\\szentjobi.gergo\\Documents\\escape\\escape.csproj",
         "projectName": "escape",
-        "projectPath": "c:\\Users\\szentjobi.gergo\\Documents\\escape\\escape.csproj",
+        "projectPath": "C:\\Users\\szentjobi.gergo\\Documents\\escape\\escape.csproj",
         "packagesPath": "C:\\Users\\szentjobi.gergo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\szentjobi.gergo\\Documents\\escape\\obj\\",
+        "outputPath": "C:\\Users\\szentjobi.gergo\\Documents\\escape\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szentjobi.gergo\\AppData\\Roaming\\NuGet\\NuGet.Config",
